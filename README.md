@@ -1,4 +1,3 @@
-## Hi there 👋
 
 ### Salve! Me chamo Leonardo Vieira e bem vindo ao meu perfil.🤙🤘
 
