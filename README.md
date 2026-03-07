@@ -36,3 +36,6 @@
      <img src="https://streak-stats.demolab.com?user=DevLionLeo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   </div>
 </div>
+
+![Animated Pixel Art Creations by Kirokaze _ Inspiration Grid](https://github.com/user-attachments/assets/8e1a318c-6b5b-42f8-8044-be8ca3afb6da)
+
