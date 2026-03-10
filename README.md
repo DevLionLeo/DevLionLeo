@@ -3,9 +3,6 @@
  <div>
     <h3>👩‍💻  Leonardo Vieira</h3>
     <p>My name is Leonardo Vieira, I'm 18 years old and I'm Software Developer with the goal of becoming a AI/ML Engineer. I'm from to São Paulo, in Brazil. In my free time, I enjoy study my favorites languages and frameworks of development, play guitar and listen to music.</p>
-    <a href="www.linkedin.com/in/leonardo-vieira-fullstack/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-    </a>
       <a href="https://github.com/DevLionLeo?tab=repositories&sort=stargazers">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DevLionLeo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
       <a href="https://github.com/DevLionLeo?tab=followers">
