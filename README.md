@@ -14,8 +14,6 @@
   <h3>🛠 Language and tools that I'm studying and working</h3>
   <div>
     <img src="https://img.shields.io/badge/Django-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="25" alt="PyTorch logo"  />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" height="25" alt="TensorFlow logo"  />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="25" alt="Pandas logo"  />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25" alt="Python logo"  />
   <br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25" alt="React logo"  />
